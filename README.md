@@ -19,6 +19,12 @@ A lightweight, color-coded logging utility for Roblox development with rich text
 local Log = require(path)
 ```
 
+**or**
+
+```lua
+local Log = loadstring(game:HttpGet("https://raw.githubusercontent.com/raimlworks1-art/Log_Sys/refs/heads/main/Main.lua"))()
+```
+
 ## Usage
 
 ### Basic Logging
